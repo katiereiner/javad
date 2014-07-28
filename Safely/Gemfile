@@ -1,0 +1,15 @@
+source 'http://rubygems.org'
+
+gem 'rake'
+gem 'ib'
+gem 'dotenv'
+gem 'bubble-wrap'
+gem 'motion-addressbook'
+
+
+# Add your dependencies here:
+
+# RubyMotion aware gems
+
+
+# RubyMotion unaware gems
